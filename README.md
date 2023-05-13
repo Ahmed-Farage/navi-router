@@ -1,1 +1,1 @@
-## An Attempt to explore Expo router navigation
+## An Attempt to Explore Expo Router Navigation
